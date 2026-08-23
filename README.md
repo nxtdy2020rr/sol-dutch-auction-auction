@@ -13,3 +13,6 @@ Compile: `npx hardhat compile`
 
 ---
 *Released under the MIT License by alibasit-lgtm4.*
+
+---
+*Released under the MIT License by nxtdy2020rr.*
